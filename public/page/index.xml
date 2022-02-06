@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Kraken Finance</title>
+    <link>https://krakenfinance.netlify.app/page/</link>
+    <description>Recent content in Pages on Kraken Finance</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 06 Feb 2022 12:06:03 +1000</lastBuildDate>
+    
+	<atom:link href="https://krakenfinance.netlify.app/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>https://krakenfinance.netlify.app/page/about/</link>
+      <pubDate>Sun, 06 Feb 2022 12:06:03 +1000</pubDate>
+      
+      <guid>https://krakenfinance.netlify.app/page/about/</guid>
+      <description>Hey! My name&amp;rsquo;s Luke. I&amp;rsquo;m a 26 year old Tech Manager, with experience in data, financial and systems analysis. I was born and raised in Brisbane, Australia, and grew up with an interest in IT and Finance. I studied Bachelor Degrees in Computer Science and Business, and went on to do a Masters Degree in Applied Finance. Now, I&amp;rsquo;m working on building my career, my experiences, my wealth and my happiness.</description>
+    </item>
+    
+  </channel>
+</rss>
