@@ -156,7 +156,7 @@ disqusShortname = ""
     # credits line configuration
     copyrightBy = "by Luke Ryan"
     copyrightUseCurrentYear = true  # set to true to always display the current year in the copyright
-    copyrightYearOverride = "2017"
+    copyrightYearOverride = "2022"
     copyrightUrl = "https://github.com/LukeTRyan"
     creditsText = " "
     creditsUrl = " "
