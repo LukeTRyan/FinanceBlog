@@ -1,12 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kraken Finance</title>
-    <link>https://krakenfinance.netlify.app/</link>
-    <description>Recent content on Kraken Finance</description>
+    <title>MMT on Kraken Finance</title>
+    <link>https://krakenfinance.netlify.app/tags/mmt/</link>
+    <description>Recent content in MMT on Kraken Finance</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 20 Feb 2022 17:31:30 +1000</lastBuildDate>
     
-        <atom:link href="https://krakenfinance.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://krakenfinance.netlify.app/tags/mmt/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -16,16 +17,6 @@
       
       <guid>https://krakenfinance.netlify.app/article/beginning-investing-part-1/</guid>
       <description>This is the first of a multi-part post dedicated to diving into the fundamentals of stock investing. The aim of this series is to be educational, informative and relevant in contemporary Australia, while not over-complicating the topic. In other words, this post is designed with a focus on passive investing for average Australians wishing to maximise their investment value and minimise their time resources expended. The series will be divided into 4 parts:</description>
-    </item>
-    
-    <item>
-      <title>Welcome</title>
-      <link>https://krakenfinance.netlify.app/article/welcome/</link>
-      <pubDate>Sun, 06 Feb 2022 12:04:49 +1000</pubDate>
-      
-      <guid>https://krakenfinance.netlify.app/article/welcome/</guid>
-      <description>Hey! I&amp;rsquo;m Luke, a mid 20&amp;rsquo;s IT and Finance professional. You can read a bit more about my and why I&amp;rsquo;m writing this blog in the &amp;lsquo;About&amp;rsquo; section in the navbar.
-This blog is a collection of thoughts, concepts and best practices in the world of Australian personal finance. They come from personal experience and knowledge from studying finance, working, paying taxes, saving, budgeting, investing and living life to maximise wealth and happiness.</description>
     </item>
     
   </channel>

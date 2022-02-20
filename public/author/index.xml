@@ -5,9 +5,19 @@
     <link>https://krakenfinance.netlify.app/author/</link>
     <description>Recent content in Author on Kraken Finance</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 20 Feb 2022 17:31:30 +1000</lastBuildDate>
     
 	<atom:link href="https://krakenfinance.netlify.app/author/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Luke Ryan</title>
+      <link>https://krakenfinance.netlify.app/author/luke-ryan/</link>
+      <pubDate>Sun, 20 Feb 2022 17:31:30 +1000</pubDate>
+      
+      <guid>https://krakenfinance.netlify.app/author/luke-ryan/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
